@@ -12,6 +12,7 @@ save_as = 'image.jpg'
 url = 'http://192.168.128.153/capture'
 model = YOLO("yolov8n.pt")
 
+
 while True:
     # time.sleep(5)
 
